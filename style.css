@@ -1,0 +1,39 @@
+header {
+    height: 4rem;
+    background-color: whitesmoke;
+    text-align: center;
+    flex-grow: 1;
+    flex-shrink: 0;
+    color: rgb(202, 206, 8);
+}
+main {
+    background-color: whitesmoke;
+    min-height: 85%;
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+footer {
+    height: 4rem;
+    background-color: whitesmoke;
+    text-align: center;
+    position: absolute;
+    width: 98.9%;
+    border-top: 1px solid whitesmoke;
+    flex-grow: 1;
+    flex-shrink: 0;
+    color: rgb(172, 175, 175);
+
+}
+form {
+    justify-content: center;
+    display: inline;
+}
+.body{
+    height: 10rem;
+    background-color: rgba(216, 219, 6,1);
+}
+.notes{
+    height: 10rem;
+    background-color: rgba(216, 219, 6,1);
+    
+}
